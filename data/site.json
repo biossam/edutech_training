@@ -1,0 +1,13 @@
+{
+  "site": {
+    "title": "AI·에듀테크 연수",
+    "default": "edutech"
+  },
+  "courses": [
+    {
+      "id": "edutech",
+      "title": "교실 속 에듀테크",
+      "file": "data/course.json"
+    }
+  ]
+}
